@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:nivyamolkn@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 </p>
