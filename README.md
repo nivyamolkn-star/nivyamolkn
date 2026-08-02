@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/nivyamol-k-n-17929026a" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
 </a>
 <a href="mailto:nivyamolkn@gmail.com">
